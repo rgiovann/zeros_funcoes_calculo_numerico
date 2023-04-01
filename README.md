@@ -1,22 +1,23 @@
 
 
 
-<h2 align="center">CALCULO DE ZEROS DE FUNÇÕES</h2>
+<h3 align="center">CÁLCULO DE ZEROS DE FUNÇÕES</h3>
 <br>
-<h3>Este programa implementa em R os algoritmos descritos no livro da Ruggiero de Cálculo Numérico cap 2: </h3> 
+<h4>Este programa implementa em R os algoritmos descritos no livro da Ruggiero de Cálculo Numérico cap 2: </h4> 
 <br>
-<h3>RUGGIERO, Márcia A. Gomes; LOPES, Vera Lúcia da Rocha. 
-<b>Cálculo numérico: aspectos teóricos e computacionais.</b> Makron Books do Brasil, 1997.</h3> 
-<h3>Os métodos implementados são:</h3>
-<h3>
+<h4>  RUGGIERO, Márcia A. Gomes; LOPES, Vera Lúcia da Rocha. </h4>
+<h4><b>   Cálculo numérico: aspectos teóricos e computacionais.</b> Makron Books do Brasil, 1997.</h4>   
+<br>
+<h4>Os métodos implementados são:</h4>
+<h4>
 <ol>
     <li> Bisseção </li>
     <li> Secante </li>
     <li> Newton-Raphson </li> 
 </ol>
-</h3>
+</h4>
 
-<h3>Para executar o código defina o diretório de trabalho, a função e a derivada desta função que se deseja achar os zeros:</h3>  
+<h4>Para executar o código defina o diretório de trabalho, a função e a derivada desta função que se deseja achar os zeros:</h4>  
 <br>
 
 ```sh
@@ -37,7 +38,7 @@ funcao_Derivada_de_X <- function(dValorX) {
 
 ```
 
-<h3>Adicionalmente, defina o número de iterações, o erro máximo permitido e os valores iniciais para cada algoritmo:</h3>  
+<h4>Adicionalmente, defina o número de iterações, o erro máximo permitido e os valores iniciais para cada algoritmo:</h4>  
 <br>
 
 ```sh
@@ -64,7 +65,7 @@ Sec_X1 <- 4
 ```  
 <br>
 
-<h3> Um gráfico (exemplo abaixo do código) é apresentado no final mostrando a evolução do erro a cada iteração.</h3> 
+<h4> Um gráfico (exemplo abaixo do código) é apresentado no final mostrando a evolução do erro a cada iteração.</h4> 
 
 ![gráfico erros metodos zero de função](https://github.com/rgiovann/image-repo/blob/main/zeros_erro.png)
 

@@ -3,7 +3,7 @@
 
 <h2 align="center">CALCULO DE ZEROS DE FUNÇÕES</h2>
 <br>
-<h3>Este programa implementa em R os algoritmos descritos no livro de Giugarro de Cálculo Numérico cap 2: </h3> 
+<h3>Este programa implementa em R os algoritmos descritos no livro da Ruggiero de Cálculo Numérico cap 2: </h3> 
 <br>
 <h3>RUGGIERO, Márcia A. Gomes; LOPES, Vera Lúcia da Rocha. 
 <b>Cálculo numérico: aspectos teóricos e computacionais.</b> Makron Books do Brasil, 1997.</h3> 
